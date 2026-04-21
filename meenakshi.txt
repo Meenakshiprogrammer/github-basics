@@ -2,3 +2,4 @@ git remote origin main krne k liye hmm pat - personal access token ka use kr skt
 git remote origin main https://personal access token@github.com meenakshiprogrammer/github-project.git
 then hmm git push origin main par jaige push kr dege 
 agr nhi ho rha to error check krege agr vo error ye h ki phle se kuch extra data hmme github par h jo ki abhi tk git me clone nhi hua h ya bol kste local par to phle usse pull kro then hmm push krege ..
+abhi hmm push and pull ka game khel rhee h 
